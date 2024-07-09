@@ -54,4 +54,4 @@ The Song component displays information about each individual song, which includ
 Curtain Call and Future Crescendos
 As our symphony draws to a close, we’ve embarked on a whirlwind journey, crafting the foundations of the Symphony Music Application using the potent REACT. Just as a musical composition evolves over time, our application is a canvas for future endeavors. We’ve laid the groundwork for user authentication, real-time features, and refined experiences, allowing us to compose future crescendos in the symphony of Symphony.
 
-Here is the link for my project: Symphony Music App
+Here is the link for my project: https://thesymphonymusicapp.netlify.app/
